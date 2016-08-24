@@ -1,2 +1,2 @@
-# part-i-computing-data
+# Part IA Computing
 Data set used for CUED Part IA Computing
